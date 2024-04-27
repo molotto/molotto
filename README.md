@@ -11,7 +11,7 @@
 
 •Graduando em Engenharia de Computação pela Universidade Estadual de Ponta Grossa-UEPG.
 
-•Fluente em Português e nível intermediário em Inglês.
+•Nível intermediário em Inglês.
 
 ### •Minhas áreas de interesse incluem:
     
