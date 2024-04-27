@@ -1,16 +1,42 @@
-### Hi there 👋
 
-<!--
-**molotto/molotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# **Olá! Meu nome é Luis, seja bem vindo ao meu perfil!** 😁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![molotto GitHub stats](https://github-readme-stats.vercel.app/api?username=molotto&theme=midnight-purple&show_icons=true)
+
+[//]: # "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molotto&layout=compact)"
+
+
+## 👨🏻‍💻 **Sobre mim**
+
+•Graduando em Engenharia de Computação pela Universidade Estadual de Ponta Grossa-UEPG.
+
+•Fluente em Português e nível intermediário em Inglês.
+
+### •Minhas áreas de interesse incluem:
+    
+   -🤖 Inteligência artificial  
+   -📷 Processamento de imagens  
+   -🖥️ Aprendizado de máquina  
+   -📝 Lógica computacional  
+   -🧠 [Psicologia 4.0](https://digital.unesc.net/blog/psicologia-4.0#:~:text=A%20tecnologia%20tem%20permitido%20que,a%20necessidade%20de%20deslocamento%20f%C3%ADsico.)
+
+
+### •Minhas áreas de conhecimento incluem:
+ 
+-💾 Assembly -> Básico, aprendendo  
+-💻 C -> Intermediário, aprendendo  
+-🎨 Figma -> Básico  
+-🚀 HTML/CSS -> Básico  
+-☕️ Java -> Básico, aprendendo  
+-🐍 Python -> Aprendendo  
+
+
+
+
+### Por onde você pode falar comigo:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luismolotto)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](molotto.luis@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/molotto_luis/)
+
