@@ -24,12 +24,12 @@
 
 ### •Minhas áreas de conhecimento incluem:
  
--💾 Assembly -> Básico, aprendendo  
--💻 C -> Intermediário, aprendendo  
+-💾 Assembly -> Básico
+-💻 C -> Intermediário 
 -🎨 Figma -> Básico  
 -🚀 HTML/CSS -> Básico  
--☕️ Java -> Básico, aprendendo  
--🐍 Python -> Aprendendo  
+-☕️ Java -> Básico
+-🐍 Python -> Básico
 
 
 
